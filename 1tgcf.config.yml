@@ -2,13 +2,33 @@ admins: []
 forwards:
 - source: -1001203936319
   dest:
-  - -1001259984500
-  offset: 1213
+  - -1001475975326
+  offset: 0
   end: 0
 - source: -1001367522199
   dest:
-  - -1001520686674
-  offset: 2100
+  - -1001475975326
+  offset: 0
+  end: 0
+- source: -1001367522199
+  dest:
+  - -1001475975326
+  offset: 0
+  end: 0
+- source: -1001367522199
+  dest:
+  - -1001475975326
+  offset: 0
+  end: 0
+- source: -1001367522199
+  dest:
+  - -1001475975326
+  offset: 0
+  end: 0
+- source: -1001367522199
+  dest:
+  - -1001475975326
+  offset: 0
   end: 0
 show_forwarded_from: false
 live:
@@ -21,3 +41,5 @@ plugins:
     text:
       blacklist:
       - badword
+
+
